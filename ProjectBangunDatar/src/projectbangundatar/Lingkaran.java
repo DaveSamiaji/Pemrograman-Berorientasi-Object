@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Dave
+ * @author Davee
  */
 public class Lingkaran {
     // atribut
